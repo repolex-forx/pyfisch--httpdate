@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "pyfisch",
+  "repo": "httpdate",
+  "versions": [
+    {
+      "commit": "638da761065df8b67282b0a1d139c0a7e4a02429",
+      "parsed_at": "2026-11-22T11:36:03.841048+00:00",
+      "tag": "v1.0.3",
+      "filetree": "filetree/638da761065df8b67282b0a1d139c0a7e4a02429.nq.gz",
+      "blobs": [
+        "blob/572e03bdf321b6cc3a99488183436905cefd086d.nq.gz",
+        "blob/cb1951cc32831e939647406f87b14aa65c543b50.nq.gz",
+        "blob/ddc17f10991084ad4dea8695b444a5ed6c1293d7.nq.gz",
+        "blob/8a9dfcc7de00ac47ba24ed7448f6b8204831932c.nq.gz",
+        "blob/4f82467bdb3809cec51e74895b510aabd36127ff.nq.gz",
+        "blob/8819964156340c2b1873d521b5b4d8e9a3d08206.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz",
+        "blob/88b9f696fe678eba9ccfc8c2c0cbe6098320b3cc.nq.gz",
+        "blob/cd482d89761c2eb60d1fc8c72c1708b7f47b8c82.nq.gz",
+        "blob/88cb6fa75175d9c5929f1508af0ade935771c04a.nq.gz",
+        "blob/8bc0a3b33bb9ca8ac3c3204e10fcea5810a762ec.nq.gz",
+        "blob/dd436e86e0f97d0dd5b00b36ccdb0acccb5c8380.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
