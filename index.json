@@ -1,0 +1,11 @@
+{
+  "org": "pyfisch",
+  "repo": "httpdate",
+  "versions": [
+    {
+      "commit": "638da761065df8b67282b0a1d139c0a7e4a02429",
+      "tag": "v1.0.3",
+      "parsed_at": "2026-11-22T11:43:06.609219+00:00"
+    }
+  ]
+}
