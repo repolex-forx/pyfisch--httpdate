@@ -24,6 +24,18 @@
       ],
       "ast": [
         "aggregate/ast/638da761065df8b67282b0a1d139c0a7e4a02429/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/638da761065df8b67282b0a1d139c0a7e4a02429.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.5",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
